@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**naenaens/naenaens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to ge# 💫 About Me:
+# 💫 About Me:
 I'm currently 2nd year Web Design and Web Development student at the Northern Alberta Institute of Technology.<br>I also work part-time as an entry-level Full Stack Developer for Alberta Blue Cross.<br><br>I am in the early stages of my coding journey but so far, I love it! I would love to learn more technology and be able to build stuff from the group up.<br><br>Outside of coding, I try to practice digital art and I also do Music.<br><br>I'm pretty much trying to learn a lot of things and enjoying the journey.
 
 
@@ -23,14 +18,4 @@ I'm currently 2nd year Web Design and Web Development student at the Northern Al
 ---
 [![](https://visitcount.itsvg.in/api?id=naenaens&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->t you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
