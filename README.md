@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently 2nd year Web Design and Web Development student at the Northern Alberta Institute of Technology.<br>I also work part-time as an entry-level Full Stack Developer for Alberta Blue Cross.<br><br>I am in the early stages of my coding journey but so far, I love it! I would love to learn more technology and be able to build stuff from the group up.<br><br>Outside of coding, I try to practice digital art and I also do Music.<br><br>I'm pretty much trying to learn a lot of things and enjoying the journey.
 
+<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/391597388_10221062602149616_2206211083894785657_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=FekyrRTzHP0Q7kNvgFZrpRi&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&_nc_gid=AlLUduOYL_Xo9VQ036L_Qtl&oh=00_AYDpurGu7dbvWyoV1P0jUlC-KSJI2CdYWAYbcAJfkMUe6Q&oe=672A072B" width="500px" align="center">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/naenaens) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naenaens) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naenaens) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/naenaens) 
